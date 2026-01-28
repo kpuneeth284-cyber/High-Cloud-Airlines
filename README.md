@@ -1,2 +1,26 @@
-# High-Cloud-Airlines
-High Cloud Airlines is a data analysis and visualization project designed to evaluate the operational and financial performance of an airline. The project focuses on transforming raw airline data into meaningful insights using dashboards, KPIs, and analytical reports to support data-driven decision-making.
+# High Cloud Airlines Project ✈️
+
+## Overview
+This project analyzes airline operations for High Cloud Airlines, focusing on
+performance metrics, revenue, routes, and operational efficiency.
+
+## Tools & Technologies
+- Excel / Power BI
+- SQL (if used)
+- Python (if used)
+
+## Key Features
+- KPI dashboards
+- Revenue & route analysis
+- Performance insights
+
+## Dataset
+Sample airline operational dataset (dummy / academic use)
+
+## Outcome
+This project helps understand airline performance and supports
+data-driven decision making.
+
+## Author
+K.PUNEETH
+
